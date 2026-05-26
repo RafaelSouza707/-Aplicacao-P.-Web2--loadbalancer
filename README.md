@@ -1,7 +1,7 @@
 # Após "buildar" o projeto e localizar o dist:
 ## Crie um diretornio nginx e nele crie o arquivo nginx.conf
 ### Adicione o conteudo
-[`nginx.conf`].(./nginx.conf)
+
 <a href="./nginx.conf"><code>nginx.conf</code></a>
 
 # Crie uma rede local para os containers
@@ -22,7 +22,8 @@
 # Após criar os nós
 ## Altere os default.conf de cada nó
 ## Mudando para: 
-[`default.conf`].(./default.conf)
+
+<a href="./default.conf"><code>default.conf</code></a>
 
 ### Utilitario
 * Se a imagem for baseada em Alpine Linux:
