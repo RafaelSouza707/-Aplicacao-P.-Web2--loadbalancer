@@ -20,8 +20,8 @@
 `docker run -d --name node1 --network minha-rede -v /caminho/para/dist:/usr/share/nginx/html:ro nginx:alpine`
 
 # Após criar os nós
-## Altere os default.conf de cada nó
-## Mudando para: 
+* Altere os default.conf de cada nó
+* Mudando para: 
 
 <a href="./default.conf"><code>default.conf</code></a>
 
