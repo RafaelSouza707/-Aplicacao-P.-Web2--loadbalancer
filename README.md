@@ -2,6 +2,7 @@
 ## Crie um diretornio nginx e nele crie o arquivo nginx.conf
 ### Adicione o conteudo
 [`nginx.conf`].(./nginx.conf)
+<a href="./nginx.conf"><code>nginx.conf</code></a>
 
 # Crie uma rede local para os containers
 
